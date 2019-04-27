@@ -1,12 +1,1 @@
-h1 {
-	background: red;
-	color: green;
-}
 
-nav ul li a{
-	background: black;
-	color: white;
-	display: inline-block;
-	list-style-type: none;
-	margin: 10px;
-}
